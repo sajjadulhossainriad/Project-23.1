@@ -1,0 +1,99 @@
+.maindiv{
+    width: 1200px;
+    margin:30px auto;
+    background-color: #ffffff;
+}
+.borderdiv{
+    border: 1px solid #ddd;
+}
+img{
+   height: 100px;
+   width: 120px;
+}
+.image2{
+    min-width: 100%;
+    height: 400px;
+}
+h2{
+    font-size: 28px;
+    font-weight: 600;
+
+}
+.text{
+    font-size: 19px;
+    padding: 8px 8px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+.mail{
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 140px;
+    border-radius: 5px;
+}
+a.thirdbutton{
+    background-color: #1a73e8;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 30px;
+}
+a.thirdbutton:hover{
+    background-color: #063df3;
+}
+a.secondbutton{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+a.secondbutton:hover{
+    background-color: rgba(113, 168, 182,0.2);
+}
+a.firstbutton{
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 15px;
+    margin-left: -10px;
+}
+a.firstbutton:hover{
+    background-color: rgba(113, 168, 182,0.2);
+}
+.password{
+    font-size: 19px;
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+.checkbox{
+}
+.buttonsection{
+    margin-top: 70px;
+}
+.paragraph{
+    color: rgb(42, 40, 40);
+    margin-bottom: 0;
+}
+.paragraph2{
+}
+.footermenu{
+    text-align: right;
+}
+.footermenu li{
+    display: inline-block;
+}
+.footermenu li a{
+    color: rgb(47, 44, 44);
+    padding-left: 35px;
+    text-decoration: none;
+    font-size: 18px;
+
+}
+.footerform{
+    text-align: left;
+}
